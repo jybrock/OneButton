@@ -1,0 +1,6 @@
+{
+    "npm.packageManager": "npm",
+    "solidity-va.debug.parser.showExceptions": true,
+    "solidity-va.preview.markdown": true,
+    "solidity-va.diagnostics.cdili_json.import": true
+}

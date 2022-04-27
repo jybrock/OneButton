@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2018"],
+    "target": "es2018",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "declaration": true,
+    "types": ["@types/node", "@types/chai", "@types/mocha"],
+    "typeRoots": ["./node_modules/@types", "./types"],
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["**/*.ts", "./scripts", "./deploy", "./test"],
+  "exclude": ["node_modules", "build", "cache", "artifacts"],
+  "files": ["./hardhat.config.ts"]
+}

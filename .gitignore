@@ -1,0 +1,15 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+# truffle
+build
+
+# typechain
+types
+
+# buidler
+artifacts
+cache
