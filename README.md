@@ -7,10 +7,10 @@ The project comes with a sample contract, less than 50 lines of code, similar to
 # TO-DO: 
 - Migrate .js to .ts configurations
 - Merge Solidity contract into Boilerplate template (provided above) for: 
--- More sophisticated utility functions testing.
--- Converting Readme.md (creating better documentation format).
--- Implementing deployment scripts.
--- Latest/upgrade Solidity versioning.
+- More sophisticated utility functions testing.
+- Converting Readme.md (creating better documentation format).
+- Implementing deployment scripts.
+- Latest/upgrade Solidity versioning.
 
 
 Try running some of the following tasks:
