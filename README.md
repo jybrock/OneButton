@@ -1,8 +1,17 @@
-# Advanced Sample Hardhat Project
+# Example Project - OneOf Assignment
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
-The project comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts. It also comes with a variety of other tools, preconfigured to work with the project code.
+The project comes with a sample contract, less than 50 lines of code, similar to The Button on reddit, where participants pay a fixed amount of ether to call press_button, and then if three blocks pass without someone calling press_button, whoever pressed the button last can call claim_treasure and get the other participants' deposits.
+
+# TO-DO: 
+- Migrate .js to .ts configurations
+- Merge Solidity contract into Boilerplate template (provided above) for: 
+-- More sophisticated utility functions testing.
+-- Converting Readme.md (creating better documentation format).
+-- Implementing deployment scripts.
+-- Latest/upgrade Solidity versioning.
+
 
 Try running some of the following tasks:
 
